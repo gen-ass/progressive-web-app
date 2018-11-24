@@ -1,15 +1,15 @@
 {
   "name": "progressive",
   "version": "1.0.0",
-  "description": "Project for my Progressive Web Apps course on Lynda.com/LinkedIn Learning",
+  "description": "Project for my Progressive Web Apps",
   "scripts": {
     "start": "node ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetoftheweb/progressive.git"
+    "url": ""
   },
-  "author": "Ray Villalobos",
+  "author": ",
   "devDependencies": {
     "browserify": "^13.1.0",
     "gulp": "^3.8.8",
